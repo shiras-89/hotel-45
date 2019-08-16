@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.textShadow {
+    text-shadow: 0 0 3px #000000, 0 0 5px #0000FF;
+}
+
+.divbg {
+
+    background-color: #172532;
+}
+
+
+.haeder_booking {
+    padding: 20px;
+}
+
+.overflowauto{
+    overflow: auto;
+}
+
+.txt_center{
+    text-align: center;
+}
+
+
+.subscripe_panel {
+    background: url('../img/2.jpg');
+    background-color: #000000;
+    background-blend-mode: darken;
+}
+
